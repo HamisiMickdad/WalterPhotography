@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#003C98</color>
+    <color name="colorPrimaryDark">#003C98</color>
+    <color name="colorAccent">#EC407A</color>
+
+    <color name="overlay_dark_50">#80000000</color>
+    <color name="orange"> #ff9800</color>
+    <color name="white">#ffffff</color>
+    <color name="colorBlack">#000</color>
+    <color name="lightBlue"> #03a9f4</color>
+    <color name="green"> #4caf50</color>
+    <color name="deepPurple"> #673ab7</color>
+    <color name="pink"> #e91e63</color>
+    <color name="purple">#9c27b0</color>
+    <color name="blue"> #2196f3</color>
+    <color name="red">#F44336</color>
+    <color name="grey">#222222</color>
+
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+</resources>
